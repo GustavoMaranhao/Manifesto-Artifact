@@ -6,4 +6,5 @@ The game has simple 2D graphics, created using image editing software, and the c
 In the game the player controls a character and has to explore the ruins of the labyrinth of the Minotaur in Crete, although the environment is lightless there is no actual conflict, being only an exploration game. Throughout the maze there are a few signs telling the story of the legend supposedly living in the caverns.
 
 Link to a demonstration video: https://www.youtube.com/watch?v=a-7bDZiyVRg
+
 Link to a playable version online: http://labyrinthartifact.bitballoon.com/
